@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>World Explorer — Separated Files</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>🌍Travel Destinations🌍</h1>
+    <div class="controls">
+      <input id="search" placeholder="🔍 Search destination (name)..." />
+      <select id="regionFilter">
+        <option value="All">🌐 All Regions</option>
+        <option value="Asia">Asia</option>
+        <option value="Europe">Europe</option>
+        <option value="Africa">Africa</option>
+        <option value="North America">North America</option>
+        <option value="South America">South America</option>
+        <option value="Oceania">Oceania</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <div id="countries-container"></div>
+    <div id="empty" class="empty" style="display:none;">No destinations match your search/filter.</div>
+  </main>
+
+  <!-- Modal -->
+  <div id="modal" class="modal" aria-hidden="true">
+    <div class="modal-content" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modalClose" title="Close">×</button>
+      <img id="modal-image" class="modal-image" src="" alt="Place image" />
+      <div class="modal-inner">
+        <h2 id="modal-title"></h2>
+        <p id="modal-location" style="font-weight:600;color:#333;"></p>
+        <p id="modal-description"></p>
+
+        <div class="modal-nav">
+          <button id="prevBtn">⬅ Previous</button>
+          <button id="nextBtn">Next ➡</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

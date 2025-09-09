@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Taj Mahal",
+    "location": "Agra, India",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "description": "A UNESCO World Heritage site and symbol of love, built by Mughal emperor Shah Jahan."
+  },
+  {
+    "name": "Great Wall of China",
+    "location": "China",
+    "region": "Asia",
+    "image": "https://pohcdn.com/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/the-great-wall-of-china_optimized.jpg",
+    "description": "One of the world's most iconic structures, stretching over 13,000 miles across northern China."
+  },
+  {
+    "name": "Eiffel Tower",
+    "location": "Paris, France",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+    "description": "An iconic iron lattice tower built in 1889, symbol of Paris and France."
+  },
+  {
+    "name": "Colosseum",
+    "location": "Rome, Italy",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
+    "description": "Ancient amphitheater in Rome, once home to gladiator contests and Roman spectacles."
+  },
+  {
+    "name": "Statue of Liberty",
+    "location": "New York, USA",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Statue_of_Liberty_7.jpg",
+    "description": "A gift from France to the USA, symbolizing freedom and democracy."
+  },
+  {
+    "name": "Machu Picchu",
+    "location": "Cusco Region, Peru",
+    "region": "South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+    "description": "A 15th-century Inca citadel set high in the Andes Mountains."
+  },
+  {
+    "name": "Christ the Redeemer",
+    "location": "Rio de Janeiro, Brazil",
+    "region": "South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cristo_Redentor_-_Rio_de_Janeiro%2C_Brasil.jpg",
+    "description": "A giant Art Deco statue of Jesus Christ, overlooking Rio de Janeiro."
+  },
+  {
+    "name": "Sydney Opera House",
+    "location": "Sydney, Australia",
+    "region": "Oceania",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sydney_Opera_House_Sails.jpg",
+    "description": "Famous performing arts center with unique sail-like architecture."
+  },
+  {
+    "name": "Pyramids of Giza",
+    "location": "Giza, Egypt",
+    "region": "Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+    "description": "Ancient pyramids and tombs of Egyptian pharaohs, including the Great Pyramid of Khufu."
+  },
+  {
+    "name": "Burj Khalifa",
+    "location": "Dubai, UAE",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Burj_Khalifa.jpg",
+    "description": "The world's tallest building, standing at 828 meters in Dubai."
+  },
+  {
+    "name": "Angkor Wat",
+    "location": "Siem Reap, Cambodia",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Angkor_Wat_temple.jpg",
+    "description": "The largest religious monument in the world, built in the 12th century."
+  },
+  {
+    "name": "Mount Fuji",
+    "location": "Honshu, Japan",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mount_Fuji_from_Hotel_Mt_Fuji_2023.jpg",
+    "description": "Japan's tallest peak and an active volcano, sacred in Japanese culture."
+  },
+  {
+    "name": "Santorini",
+    "location": "Greece",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Santorini_-_Oia.jpg",
+    "description": "A picturesque Greek island known for whitewashed houses and blue-domed churches."
+  },
+  {
+    "name": "Niagara Falls",
+    "location": "Canada/USA Border",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Niagara_Falls_-_Canadian_side.jpg",
+    "description": "Massive waterfalls straddling the US-Canada border, attracting millions of visitors."
+  },
+  {
+    "name": "Banff National Park",
+    "location": "Alberta, Canada",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Moraine_Lake_Banff_National_Park_Alberta_Canada.jpg",
+    "description": "Canada’s first national park, famous for turquoise lakes and mountain scenery."
+  },
+  {
+    "name": "Petra",
+    "location": "Jordan",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Petra_Jordan_BW_21.JPG",
+    "description": "An ancient city carved into rose-red cliffs, known as the 'Rose City'."
+  },
+  {
+    "name": "Grand Canyon",
+    "location": "Arizona, USA",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Grand_Canyon_view_from_Pima_Point_2010.jpg",
+    "description": "A massive canyon carved by the Colorado River, known for breathtaking views."
+  },
+  {
+    "name": "Serengeti National Park",
+    "location": "Tanzania",
+    "region": "Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Serengeti_National_Park_Tanzania.jpg",
+    "description": "A wildlife sanctuary famous for the Great Migration of wildebeest and zebras."
+  },
+  {
+    "name": "Table Mountain",
+    "location": "Cape Town, South Africa",
+    "region": "Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Table_Mountain_view_from_Bloubergstrand.jpg",
+    "description": "A flat-topped mountain offering panoramic views of Cape Town."
+  },
+  {
+    "name": "Stonehenge",
+    "location": "Wiltshire, England",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+    "description": "A prehistoric monument of standing stones, shrouded in mystery."
+  },
+  {
+    "name": "Acropolis of Athens",
+    "location": "Athens, Greece",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/View_of_the_Acropolis_Athens.jpg",
+    "description": "An ancient citadel containing the Parthenon, a masterpiece of classical Greek architecture."
+  },
+  {
+    "name": "Chichen Itza",
+    "location": "Yucatán, Mexico",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Chichen_Itza_3.jpg",
+    "description": "A large pre-Columbian city built by the Maya people, home to the Temple of Kukulcán."
+  },
+  {
+    "name": "Dubai Marina",
+    "location": "Dubai, UAE",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Dubai_Marina_Skyline.jpg",
+    "description": "A man-made canal city with modern skyscrapers, luxury yachts, and vibrant nightlife."
+  },
+  {
+    "name": "Great Barrier Reef",
+    "location": "Queensland, Australia",
+    "region": "Oceania",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Great_Barrier_Reef_Australia.jpg",
+    "description": "The world's largest coral reef system, visible from space, rich in marine biodiversity."
+  },
+  {
+    "name": "Iguazu Falls",
+    "location": "Argentina/Brazil Border",
+    "region": "South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Iguazu_Falls%2C_Brazil.jpg",
+    "description": "One of the largest and most impressive waterfall systems in the world."
+  },
+  {
+    "name": "Hagia Sophia",
+    "location": "Istanbul, Turkey",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hagia_Sophia_Mars_2013.jpg",
+    "description": "A masterpiece of Byzantine architecture, once a church, then a mosque, now a museum."
+  },
+  {
+    "name": "Mount Everest Base Camp",
+    "location": "Nepal",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Everest_Base_Camp_Trek.jpg",
+    "description": "A popular trekking destination offering views of the world’s highest mountain."
+  },
+  {
+    "name": "Mount Kilimanjaro",
+    "location": "Tanzania",
+    "region": "Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mount_Kilimanjaro.jpg",
+    "description": "Africa’s tallest mountain and a popular climbing destination."
+  },
+  {
+    "name": "Sagrada Familia",
+    "location": "Barcelona, Spain",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sagrada_Familia_2021.jpg",
+    "description": "An unfinished basilica designed by Antoni Gaudí, blending Gothic and Art Nouveau styles."
+  },
+  {
+    "name": "Times Square",
+    "location": "New York, USA",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Times_Square_New_York_City.jpg",
+    "description": "A bustling commercial hub known for neon lights, Broadway shows, and New Year’s Eve celebrations."
+  },
+  {
+    "name": "Yellowstone National Park",
+    "location": "Wyoming, USA",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Grand_Prismatic_Spring.jpg",
+    "description": "The first national park in the world, known for geysers, hot springs, and wildlife."
+  },
+  {
+    "name": "Alhambra",
+    "location": "Granada, Spain",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Alhambra_from_Generalife.jpg",
+    "description": "A palace and fortress complex showcasing Islamic architecture and gardens."
+  },
+  {
+    "name": "Blue Lagoon",
+    "location": "Iceland",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Blue_Lagoon_Iceland.jpg",
+    "description": "A geothermal spa with milky-blue waters, surrounded by lava fields."
+  },
+  {
+    "name": "Cinque Terre",
+    "location": "Liguria, Italy",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cinque_Terre_Vernazza.jpg",
+    "description": "A coastal area of five colorful fishing villages on the Italian Riviera."
+  },
+  {
+    "name": "Salar de Uyuni",
+    "location": "Bolivia",
+    "region": "South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Salar_de_Uyuni_2013.jpg",
+    "description": "The world’s largest salt flat, creating a mirror effect after rainfall."
+  },
+  {
+    "name": "Galápagos Islands",
+    "location": "Ecuador",
+    "region": "South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Galapagos_Landscape.jpg",
+    "description": "An archipelago known for unique wildlife and inspiration for Darwin’s theory of evolution."
+  },
+  {
+    "name": "Victoria Falls",
+    "location": "Zambia/Zimbabwe",
+    "region": "Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Victoria_Falls_from_Zambia_side.jpg",
+    "description": "One of the world’s largest waterfalls, locally known as 'The Smoke That Thunders'."
+  },
+  {
+    "name": "Bagan Temples",
+    "location": "Myanmar",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bagan_Temple_Field.jpg",
+    "description": "An ancient city with over 2,000 Buddhist temples, pagodas, and stupas."
+  },
+  {
+    "name": "Louvre Museum",
+    "location": "Paris, France",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Louvre_Museum_2019.jpg",
+    "description": "The world’s largest art museum, home to the Mona Lisa and thousands of masterpieces."
+  },
+  {
+    "name": "Mount Rushmore",
+    "location": "South Dakota, USA",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mount_Rushmore.jpg",
+    "description": "A massive sculpture carved into granite, depicting four US presidents."
+  },
+  {
+    "name": "Maldives",
+    "location": "Indian Ocean",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Maldives_Resort_Island.jpg",
+    "description": "A tropical paradise of atolls and islands, famous for beaches and luxury resorts."
+  },
+  {
+    "name": "Prague Castle",
+    "location": "Prague, Czech Republic",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Prague_Castle_Panorama.jpg",
+    "description": "A historic castle complex dating back to the 9th century, overlooking Prague."
+  },
+  {
+    "name": "Great Sphinx of Giza",
+    "location": "Giza, Egypt",
+    "region": "Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Great_Sphinx_of_Giza_2010.jpg",
+    "description": "A colossal limestone statue with the body of a lion and the head of a pharaoh."
+  },
+  {
+    "name": "Hallstatt",
+    "location": "Austria",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hallstatt_Austria_2018.jpg",
+    "description": "A picturesque lakeside village in the Austrian Alps."
+  },
+  {
+    "name": "Jerusalem Old City",
+    "location": "Jerusalem, Israel",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jerusalem_Old_City_Walls.jpg",
+    "description": "A city sacred to Judaism, Christianity, and Islam, rich in history and heritage."
+  },
+  {
+    "name": "Kremlin and Red Square",
+    "location": "Moscow, Russia",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Moscow_Kremlin_and_Red_Square.jpg",
+    "description": "A historic fortified complex and the heart of Russia’s political and cultural life."
+  },
+  {
+    "name": "Leaning Tower of Pisa",
+    "location": "Pisa, Italy",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Leaning_Tower_of_Pisa_2013.jpg",
+    "description": "A freestanding bell tower famous for its unintended tilt."
+  },
+  {
+    "name": "Mecca",
+    "location": "Saudi Arabia",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mecca_Masjid_al-Haram.jpg",
+    "description": "Islam’s holiest city, home to the Kaaba and destination for Hajj pilgrimage."
+  },
+  {
+    "name": "Uluru (Ayers Rock)",
+    "location": "Northern Territory, Australia",
+    "region": "Oceania",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Uluru_Ayers_Rock_Australia.jpg",
+    "description": "A massive sandstone monolith sacred to indigenous Australians."
+  },
+  {
+    "name": "Yosemite National Park",
+    "location": "California, USA",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Yosemite_Valley_from_Tunnel_View.jpg",
+    "description": "A UNESCO site known for granite cliffs, waterfalls, and giant sequoias."
+  },
+  {
+    "name": "Dubai Palm Jumeirah",
+    "location": "Dubai, UAE",
+    "region": "Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Palm_Jumeirah_Dubai.jpg",
+    "description": "A man-made island shaped like a palm tree, home to luxury resorts."
+  },
+  {
+    "name": "Edinburgh Castle",
+    "location": "Edinburgh, Scotland",
+    "region": "Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Edinburgh_Castle_Scotland.jpg",
+    "description": "A historic fortress overlooking the city of Edinburgh."
+  },
+  {
+    "name": "Sahara Desert",
+    "location": "North Africa",
+    "region": "Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sahara_Desert.jpg",
+    "description": "The largest hot desert in the world, stretching across several African countries."
+  },
+  {
+    "name": "Everglades National Park",
+    "location": "Florida, USA",
+    "region": "North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Everglades_National_Park.jpg",
+    "description": "A unique wetland ecosystem home to alligators, birds, and mangroves."
+  }
+]
